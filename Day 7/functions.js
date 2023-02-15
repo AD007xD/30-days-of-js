@@ -46,4 +46,4 @@ console.log(addAll(1, 2, 3, 4, 5));
 console.log(addAll(1, 2, 3, 4, 5, 10, 20));
 anonymous();
 console.log(square(5));
-cl(cube(3));
+console.log(cube(3));
